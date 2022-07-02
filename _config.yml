@@ -1,3 +1,9 @@
 theme: jekyll-theme-hacker
 title: thd3rBoy
 description: Open-source tool maker, Security research
+
+author:
+  name: Thunder
+  email: thd3rBoy@github.io
+  
+show_excerpts: true
